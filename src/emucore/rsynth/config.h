@@ -131,7 +131,7 @@
 #define HAVE_TRUNCATE 1
 
 /* Define to 1 if you have the <unistd.h> header file. */
-#define HAVE_UNISTD_H 1
+#define HAVE_UNISTD_H 0
 
 /* No float prototype */
 /* #undef NOPROTOFLOAT */

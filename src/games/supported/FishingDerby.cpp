@@ -12,6 +12,7 @@
 #include "FishingDerby.hpp"
 
 #include "../RomUtils.hpp"
+#include <algorithm>
 using namespace std;
 
 

@@ -27,3 +27,11 @@ doc/examples/*Example
 *.lai
 *.la
 *.a
+/CMakeFiles
+/visual_studio/x64
+/cmake_uninstall.cmake
+/CMakeCache.txt
+/visual_studio/README.rst
+/visual_studio/Arcade-Learning-Environment-VS.vcxproj.user
+/visual_studio/ALE.v12.suo
+/visual_studio/ALE.sdf

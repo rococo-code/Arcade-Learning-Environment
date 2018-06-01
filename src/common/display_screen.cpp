@@ -15,6 +15,7 @@
  **************************************************************************** */
 #include "display_screen.h"
 #include "SoundSDL.hxx"
+#include <algorithm>
 using namespace std;
 #ifdef __USE_SDL
 DisplayScreen::DisplayScreen(MediaSource* mediaSource,

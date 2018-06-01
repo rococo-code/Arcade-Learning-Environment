@@ -12,6 +12,7 @@
 #include "IceHockey.hpp"
 
 #include "../RomUtils.hpp"
+#include <algorithm>
 using namespace std;
 
 
